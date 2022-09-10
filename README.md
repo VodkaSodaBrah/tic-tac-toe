@@ -1,1 +1,1 @@
-Simple Tic-Tac-Toe Game written with React and bootstraped by create react app from GitHub
+Simple Tic-Tac-Toe Game written with React and bootstraped with create react app from GitHub
